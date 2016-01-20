@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/aed-det" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: secretwars
-github_username:  mabalabanov
+github_username:  mbalabanov
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
