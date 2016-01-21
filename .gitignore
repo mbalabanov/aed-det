@@ -1,1 +1,9 @@
 _site
+
+_site/feed.xml
+
+_site/about/index.html
+
+_site/index.html
+
+_site/jekyll/update/2016/01/20/welcome-to-jekyll.html
